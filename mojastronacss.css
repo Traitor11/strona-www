@@ -1,0 +1,37 @@
+h1{ 
+  font-family: 'Black And White Picture', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+	letter-spacing:1mm;
+	padding-bottom:10px;
+	color:#3498db;
+}
+
+body{
+  background-image: url("https://cdn.pixabay.com/photo/2015/07/31/20/41/background-869596_960_720.png");
+	padding-left:20px;
+	margin: 40px 350px 25px 350px;
+  border: 20px #bdc4c7 solid;
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+  font-size: 2.0rem;
+  font-weight: bold;
+  color: #2c3e50;
+  border-bottom: 2px #bdc3c7 solid;
+  width:97%;
+}
+
+li {
+  color:#99FFCC;
+}
+
+#omnie{
+color:#9966FF;
+}
+
+img{
+  width:100px;
+  height:100px;
+}
